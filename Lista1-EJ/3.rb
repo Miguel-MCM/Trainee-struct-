@@ -7,3 +7,5 @@ retona a soma dos numeros de uma piramide de pascal de n linhas'
   end
   return resp
 end
+
+puts piramide_pascal(gets.to_i)

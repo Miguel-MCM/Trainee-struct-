@@ -31,4 +31,4 @@ retorna o int primo menor ou igual mais próximo'
   end
 end
 
-p primo_proximo(8)
+p primo_proximo(gets.to_i)
